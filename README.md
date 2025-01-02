@@ -20,9 +20,9 @@ My name is Jacob M. Delgado López and I am from San Juan, Puerto Rico, located 
 Currently, I'm in working in the Edge Computing Group at UPRM where I explorE various strategies to compress large machine-learning models to run inferences on embedded systems. The main challenge is selecting an embedded device and identifying a model that can be compressed without compromising accuracy based on the device's resource constraints. Two paper's were submmited to the International Symposium on Intelligent Computing and Networking 2025
 
 ## 🛠️ Tech Stack
-[![Skills 1](https://skillicons.dev/icons?i=python,cpp,mysql,matlab,r)](https://skillicons.dev)
+[![Skills 1](https://skillicons.dev/icons?i=python,c,cpp,java,matlab,r)](https://skillicons.dev)
 [![Skills 2](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,postgres)](https://skillicons.dev)
-[![Skills 3](https://skillicons.dev/icons?i=linux,bash,github,git)](https://skillicons.dev)
+[![Skills 3](https://skillicons.dev/icons?i=anaconda,linux,bash,github,git)](https://skillicons.dev)
 
 ## 📊 Work Stats
 ![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobdelgado1002&show_icons=true&hide=issues,contribs)
