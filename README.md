@@ -41,7 +41,6 @@ Two papers were recently submitted to the International Symposium on Intelligent
 ## 📊 Work Stats
 ![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobdelgado1002&show_icons=true&theme=radical&hide=issues,contribs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobdelgado1002&hide=scss,makefile&layout=compact)
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=jacobdelgado1002&theme=github)
 
 ## 🌟 Featured Projects
 - **[Computer Vision for Real-Time MonkeyPox Diagnosis on Embedded Systems](#)**: Embedded systems and model compression techniques can make AI tools more accessible in resource-constrained environments such as rural areas and disaster-prone regions. This project involved creating and deploying a diagnosis tool for MonkeyPox on an NVIDIA Jetson Nano using the TensorRT framework. The baseline model obtained a 94% F1-Score pre-compression and post-compression for FP32, FP16, and INT8 while significantly reducing the power consumption by a factor of 2.
