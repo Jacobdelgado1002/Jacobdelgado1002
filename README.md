@@ -49,7 +49,7 @@ Two papers were recently submitted to the International Symposium on Intelligent
 - **[Sim2Real Transfer for Capacitive Sensors Utilizing Assistive Gym’s Capacitive Sensing Simulation Framework](#)**: This project sought to address safety concerns related to human-robot interaction by leveraging a novel method involving capacitive sensors and exploring the feasibility of Sim2Real transfer. I designed and manufactured a tool with built-in capacitive sensors to collect data. In tandem, I utilized the Assistive Gym capacitive sensing simulation framework to gather data in simulation as the basis for Sim2Real transfer. My findings gave insights into efficient Sim2Real transfer by optimizing simulation parameters like the number of electrode nodes and the permittivity.
 
 ## 📢 Contact Me
-- Email: [jacob@example.com](mailto:jacobdelgado1002@gmail.com)
+- Email: [jacobdelgado1002@gmail.com](mailto:jacobdelgado1002@gmail.com)
 - LinkedIn: [Jacob M. Delgado López](https://www.linkedin.com/in/jacob-m-delgado-lopez)
 - Website: [jacobdelgado1002.github.io](https://jacobdelgado1002.github.io)
 
